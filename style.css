@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.main {
+    background-color:#1fa4b8;
+    margin-top: 30%;
+    color: #fff;
+    padding: 20px;
+}
